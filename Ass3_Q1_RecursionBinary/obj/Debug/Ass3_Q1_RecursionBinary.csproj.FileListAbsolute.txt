@@ -1,0 +1,7 @@
+C:\Users\FranklinA\source\repos\Ass3_Q1_RecursionBinary\Ass3_Q1_RecursionBinary\bin\Debug\Ass3_Q1_RecursionBinary.exe.config
+C:\Users\FranklinA\source\repos\Ass3_Q1_RecursionBinary\Ass3_Q1_RecursionBinary\bin\Debug\Ass3_Q1_RecursionBinary.exe
+C:\Users\FranklinA\source\repos\Ass3_Q1_RecursionBinary\Ass3_Q1_RecursionBinary\bin\Debug\Ass3_Q1_RecursionBinary.pdb
+C:\Users\FranklinA\source\repos\Ass3_Q1_RecursionBinary\Ass3_Q1_RecursionBinary\obj\Debug\Ass3_Q1_RecursionBinary.csprojAssemblyReference.cache
+C:\Users\FranklinA\source\repos\Ass3_Q1_RecursionBinary\Ass3_Q1_RecursionBinary\obj\Debug\Ass3_Q1_RecursionBinary.csproj.CoreCompileInputs.cache
+C:\Users\FranklinA\source\repos\Ass3_Q1_RecursionBinary\Ass3_Q1_RecursionBinary\obj\Debug\Ass3_Q1_RecursionBinary.exe
+C:\Users\FranklinA\source\repos\Ass3_Q1_RecursionBinary\Ass3_Q1_RecursionBinary\obj\Debug\Ass3_Q1_RecursionBinary.pdb
